@@ -6,6 +6,7 @@
 //  Copyright (c) 2015 Mati Bot All rights reserved.
 //
 
+@import CoreGraphics;
 @import UIKit;
 
 IB_DESIGNABLE

@@ -5,7 +5,7 @@ import PackageDescription
 
 let package = Package(
     name: "MBCircularProgressBar",
-    platforms: [.iOS(.v9)],
+    platforms: [.iOS(.v10)],
     products: [
         .library(name: "MBCircularProgressBar", targets: ["MBCircularProgressBar"]),
     ],

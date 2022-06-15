@@ -6,7 +6,9 @@
 //  Copyright (c) 2015 Mati Bot All rights reserved.
 //
 
+@import CoreGraphics;
 @import QuartzCore;
+@import UIKit;
 
 typedef NS_ENUM(NSInteger, MBCircularProgressBarAppearanceType) {
     MBCircularProgressBarAppearanceTypeOverlaysEmptyLine = 0,
